@@ -22,7 +22,7 @@ This project is a Python application designed to track and analyse boxing traini
 
 ## Project Features
 
-- Import training data from Excel
+- Import training data from a CSV file
 - Weight tracking
 - Total rounds analysis
 - Sparring round analysis
